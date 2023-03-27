@@ -26,6 +26,8 @@
     </plugins>
   </build>
    <distributionManagement>
+     
+     <--webhook-->
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
